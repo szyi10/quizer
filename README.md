@@ -4,6 +4,8 @@
 
 This repository contains the code of Quizer app.
 
+<img src='/public/logo-banner.png' />
+
 ## Technologies
 
 - **Frontend**: Vue, TailwindCSS
